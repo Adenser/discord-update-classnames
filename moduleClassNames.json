@@ -787,6 +787,10 @@
   "32910": {
     "field": "field_zbjUyC"
   },
+  "32924": {
+    "box": "box_pqX-ln",
+    "row": "row_pqX-ln"
+  },
   "32946": {
     "panel": "panel_1oVKG1",
     "divider": "divider_1oVKG1",
@@ -1204,6 +1208,9 @@
     "left": "left_KWWX2H",
     "bottom": "bottom_KWWX2H"
   },
+  "51381": {
+    "illustration": "illustration_GzEjGT"
+  },
   "51407": {
     "connectedAccountVanityMetadata": "connectedAccountVanityMetadata_VlBwYX",
     "connectedAccountVanityMetadataTag": "connectedAccountVanityMetadataTag_VlBwYX",
@@ -1454,6 +1461,7 @@
     "itemName": "itemName_NgozOX",
     "icon": "icon_NgozOX",
     "unknownIcon": "unknownIcon_NgozOX",
+    "noneIcon": "noneIcon_NgozOX",
     "gameIcon": "gameIcon_NgozOX"
   },
   "58636": {
@@ -2383,6 +2391,9 @@
   },
   "102097": {
     "modalHeader": "modalHeader_IYB6iy"
+  },
+  "102189": {
+    "children": "children_w5-7vi"
   },
   "102931": {
     "row": "row_OObHCR",
@@ -8955,7 +8966,16 @@
     "clipKeyComboKey": "clipKeyComboKey_OAv3mC",
     "conjureCaptureHint": "conjureCaptureHint_OAv3mC",
     "conjureCaptureIcon": "conjureCaptureIcon_OAv3mC",
-    "conjureCaptureText": "conjureCaptureText_OAv3mC"
+    "conjureCaptureText": "conjureCaptureText_OAv3mC",
+    "clipsModeContainer": "clipsModeContainer_OAv3mC",
+    "clipsModeRow": "clipsModeRow_OAv3mC",
+    "clipsModeRowOpen": "clipsModeRowOpen_OAv3mC",
+    "clipsModeText": "clipsModeText_OAv3mC",
+    "clipsModeChevron": "clipsModeChevron_OAv3mC",
+    "clipsModeWithShortcut": "clipsModeWithShortcut_OAv3mC",
+    "clipsModeWithoutShortcut": "clipsModeWithoutShortcut_OAv3mC",
+    "clipsModeKeyCombo": "clipsModeKeyCombo_OAv3mC",
+    "clipsModeSeparator": "clipsModeSeparator_OAv3mC"
   },
   "369435": {
     "row": "row_PrrPPz",
@@ -12268,6 +12288,7 @@
     "badgeTileIcon": "badgeTileIcon_i44TZ4",
     "badgeTileIconHidden": "badgeTileIconHidden_i44TZ4",
     "overflowButton": "overflowButton_i44TZ4",
+    "unreadDot": "unreadDot_i44TZ4",
     "hiddenIndicator": "hiddenIndicator_i44TZ4"
   },
   "495088": {
@@ -12352,12 +12373,12 @@
   "497357": {
     "game": "game_M5fVqw",
     "globalGame": "globalGame_M5fVqw",
+    "details": "details_M5fVqw",
     "visual": "visual_M5fVqw",
     "shell": "shell_M5fVqw",
     "art": "art_M5fVqw",
     "unknownArt": "unknownArt_M5fVqw",
     "rank": "rank_M5fVqw",
-    "details": "details_M5fVqw",
     "name": "name_M5fVqw",
     "label": "label_M5fVqw"
   },
@@ -12383,6 +12404,7 @@
     "composerPlusButton": "composerPlusButton_CQ1SDL",
     "composerPlusIcon": "composerPlusIcon_CQ1SDL",
     "composerAttachButton": "composerAttachButton_CQ1SDL",
+    "composerStopButton": "composerStopButton_CQ1SDL",
     "composerEditor": "composerEditor_CQ1SDL",
     "composerInput": "composerInput_CQ1SDL",
     "composerSend": "composerSend_CQ1SDL",
@@ -16097,6 +16119,10 @@
     "didRender": "didRender_98D4cN",
     "scale": "scale_98D4cN",
     "fade": "fade_98D4cN"
+  },
+  "638274": {
+    "contents": "contents_qZv3Qq",
+    "inFullscreenFrame": "inFullscreenFrame_qZv3Qq"
   },
   "638594": {
     "divider": "divider_2S81sZ",
@@ -20548,7 +20574,9 @@
     "editButtonAppended": "editButtonAppended_IqWmhA",
     "badge": "badge_IqWmhA",
     "editIcon": "editIcon_IqWmhA",
-    "badgeVectorSrc": "badgeVectorSrc_IqWmhA"
+    "badgeVectorSrc": "badgeVectorSrc_IqWmhA",
+    "hasUnreadDot": "hasUnreadDot_IqWmhA",
+    "unreadDot": "unreadDot_IqWmhA"
   },
   "816969": {
     "markdown": "markdown_etRqFz",
@@ -22271,10 +22299,6 @@
     "gameIcon": "gameIcon_2D_9Ek",
     "gameInfo": "gameInfo_2D_9Ek",
     "badge": "badge_2D_9Ek"
-  },
-  "886282": {
-    "box": "box_70vT0W",
-    "row": "row_70vT0W"
   },
   "886720": {
     "root": "root_5g37Xg"
@@ -24064,15 +24088,6 @@
     "voiceChannelHighlightContainer": "voiceChannelHighlightContainer_Wx6SnQ",
     "voiceChannelHighlightBorder": "voiceChannelHighlightBorder_Wx6SnQ",
     "voiceChannelHighlightGlow": "voiceChannelHighlightGlow_Wx6SnQ"
-  },
-  "965452": {
-    "container": "container_5G-eaS",
-    "emoji": "emoji_5G-eaS",
-    "list": "list_5G-eaS",
-    "menu": "menu_5G-eaS",
-    "preview": "preview_5G-eaS",
-    "profile": "profile_5G-eaS",
-    "error": "error_5G-eaS"
   },
   "966430": {
     "headerContainer": "headerContainer_7ne32W",
