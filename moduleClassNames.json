@@ -122,6 +122,8 @@
     "groupHeader": "groupHeader__xoAVS",
     "groupTitle": "groupTitle__xoAVS",
     "groupTitleLink": "groupTitleLink__xoAVS",
+    "groupToggle": "groupToggle__xoAVS",
+    "groupToggleIcon": "groupToggleIcon__xoAVS addButtonIcon_yOdhm_",
     "groupIcon": "groupIcon__xoAVS",
     "groupName": "groupName__xoAVS",
     "groupActivity": "groupActivity__xoAVS",
@@ -766,6 +768,13 @@
     "actionButtons": "actionButtons_vYDVPJ",
     "ended": "ended_vYDVPJ"
   },
+  "31978": {
+    "toast": "toast_97el6j",
+    "icon": "icon_97el6j",
+    "content": "content_97el6j",
+    "toastIn": "toastIn_97el6j",
+    "toastOut": "toastOut_97el6j"
+  },
   "32374": {
     "header": "header_6_68tM",
     "description": "description_6_68tM",
@@ -793,7 +802,8 @@
   },
   "32924": {
     "box": "box_pqX-ln",
-    "row": "row_pqX-ln"
+    "row": "row_pqX-ln",
+    "icon": "icon_pqX-ln"
   },
   "32946": {
     "panel": "panel_1oVKG1",
@@ -1555,6 +1565,9 @@
     "turnAttachments": "turnAttachments_8XrmtD",
     "stepLine": "stepLine_8XrmtD",
     "stepDriver": "stepDriver_8XrmtD"
+  },
+  "60135": {
+    "experience": "experience_1AlNiq"
   },
   "60205": {
     "container": "container_8YvAjo",
@@ -3903,6 +3916,12 @@
     "progressCircleRing": "progressCircleRing_Qvb6Lo",
     "glow": "glow_Qvb6Lo"
   },
+  "163513": {
+    "content": "content_zK9f9L",
+    "card": "card_zK9f9L",
+    "terms": "terms_zK9f9L",
+    "termBody": "termBody_zK9f9L"
+  },
   "163897": {
     "cards": "cards_Ff_24N",
     "card": "card_Ff_24N",
@@ -5650,6 +5669,33 @@
     "selectedIndicator": "selectedIndicator_IYc4c2",
     "previewCard": "previewCard_IYc4c2",
     "previewCanvas": "previewCanvas_IYc4c2"
+  },
+  "227273": {
+    "modalRoot": "modalRoot_zTijXM",
+    "overflowHost": "overflowHost_zTijXM",
+    "modalContent": "modalContent_zTijXM",
+    "stage": "stage_zTijXM",
+    "art": "art_zTijXM",
+    "closeButton": "closeButton_zTijXM",
+    "header": "header_zTijXM",
+    "tallyHeader": "tallyHeader_zTijXM",
+    "eyebrow": "eyebrow_zTijXM",
+    "title": "title_zTijXM",
+    "tally": "tally_zTijXM",
+    "tallyIcon": "tallyIcon_zTijXM",
+    "inlineBalance": "inlineBalance_zTijXM",
+    "starved": "starved_zTijXM",
+    "footer": "footer_zTijXM",
+    "milestone": "milestone_zTijXM",
+    "milestoneContent": "milestoneContent_zTijXM",
+    "milestoneRow": "milestoneRow_zTijXM",
+    "milestoneCounter": "milestoneCounter_zTijXM",
+    "milestoneCount": "milestoneCount_zTijXM",
+    "milestoneRank": "milestoneRank_zTijXM",
+    "rankIcon": "rankIcon_zTijXM",
+    "progressBar": "progressBar_zTijXM",
+    "barWrap": "barWrap_zTijXM",
+    "barSurge": "barSurge_zTijXM"
   },
   "227483": {
     "container": "container_tqg020",
@@ -10104,6 +10150,14 @@
     "glyphLayer": "glyphLayer_KW3BaC",
     "glyphCell": "glyphCell_KW3BaC"
   },
+  "411259": {
+    "roller": "roller_SRoosE",
+    "readable": "readable_SRoosE",
+    "window": "window_SRoosE",
+    "strip": "strip_SRoosE",
+    "instant": "instant_SRoosE",
+    "digit": "digit_SRoosE"
+  },
   "411398": {
     "paymentInfoGroup": "paymentInfoGroup_uwUsRp",
     "metricsContainer": "metricsContainer_uwUsRp",
@@ -11269,6 +11323,9 @@
     "loading": "loading_rqE2lZ",
     "projectTab": "projectTab_rqE2lZ"
   },
+  "453748": {
+    "canvas": "canvas_nsXtHU"
+  },
   "454137": {
     "selectorHeading": "selectorHeading_RfKP4f",
     "tileGrid": "tileGrid_RfKP4f",
@@ -11518,6 +11575,12 @@
     "notes": "notes_1gNa8I",
     "badgeNote": "badgeNote_1gNa8I",
     "badge": "badge_1gNa8I"
+  },
+  "463297": {
+    "host": "host_or_5Il host_8tFvap",
+    "core": "core_or_5Il",
+    "plate": "plate_or_5Il",
+    "filter": "filter_or_5Il"
   },
   "463799": {
     "row": "row_qF1Ceg",
@@ -16272,10 +16335,11 @@
   "638693": {
     "sidebar": "sidebar_1d0xGU",
     "header": "header_1d0xGU",
-    "scroller": "scroller_1d0xGU",
-    "search": "search_1d0xGU",
+    "scroller": "scroller_1d0xGU scroller__xoAVS",
+    "search": "search_1d0xGU search__xoAVS",
     "listEmpty": "listEmpty_1d0xGU",
     "section": "section_1d0xGU",
+    "sectionTitle": "sectionTitle_1d0xGU",
     "listState": "listState_1d0xGU",
     "footer": "footer_1d0xGU"
   },
@@ -17618,6 +17682,9 @@
     "activeItemNameText": "activeItemNameText_Sy_obt",
     "activeItemTypeText": "activeItemTypeText_Sy_obt"
   },
+  "690941": {
+    "layer": "layer_FXqOb7"
+  },
   "691388": {
     "wrapper": "wrapper_AOdYmi",
     "contentWrapper": "contentWrapper_AOdYmi",
@@ -18393,6 +18460,10 @@
   "723525": {
     "container": "container_0GMCuY",
     "scroller": "scroller_0GMCuY"
+  },
+  "723652": {
+    "host": "host_8tFvap",
+    "surface": "surface_8tFvap"
   },
   "723970": {
     "premiumIcon": "premiumIcon_uc7PyD"
@@ -19422,6 +19493,7 @@
     "decorator": "decorator_zln_tS",
     "dm": "dm_zln_tS",
     "avatarWithText": "avatarWithText_zln_tS",
+    "tabBackgroundImage": "tabBackgroundImage_zln_tS",
     "channelNameFade": "channelNameFade_zln_tS",
     "waveButton": "waveButton_zln_tS",
     "tabHoverGradient": "tabHoverGradient_zln_tS"
@@ -20072,7 +20144,7 @@
     "captionMuted": "captionMuted_hNQR4j",
     "captionWithIcon": "captionWithIcon_hNQR4j",
     "captionIcon": "captionIcon_hNQR4j",
-    "userIconWrapper": "userIconWrapper_hNQR4j",
+    "captionDot": "captionDot_hNQR4j",
     "captionLabel": "captionLabel_hNQR4j",
     "itemDeleting": "itemDeleting_hNQR4j",
     "itemWithActions": "itemWithActions_hNQR4j",
@@ -24419,6 +24491,10 @@
     "rarity-epic": "rarity-epic_4guu7-",
     "rarity-mythic": "rarity-mythic_4guu7-",
     "rarity-rare": "rarity-rare_4guu7-"
+  },
+  "963550": {
+    "follow": "follow_LRYSOg",
+    "icon": "icon_LRYSOg"
   },
   "964051": {
     "cta": "cta_EaQw3u",
