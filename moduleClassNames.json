@@ -6017,13 +6017,14 @@
     "characterAndStats": "characterAndStats_bcgTHb",
     "wordmark": "wordmark_bcgTHb",
     "stats": "stats_bcgTHb",
+    "checkpointEnabled": "checkpointEnabled_bcgTHb",
+    "characterColumn": "characterColumn_bcgTHb",
     "statRow": "statRow_bcgTHb",
     "statIcon": "statIcon_bcgTHb",
     "guildAcronymIcon": "guildAcronymIcon_bcgTHb",
     "footer": "footer_bcgTHb",
-    "clickable": "clickable_bcgTHb",
     "footerTitle": "footerTitle_bcgTHb",
-    "footerButton": "footerButton_bcgTHb"
+    "ctaButton": "ctaButton_bcgTHb"
   },
   "242111": {
     "guildSelection": "guildSelection_0kOndy",
@@ -13756,6 +13757,7 @@
     "agentChat": "agentChat_ajKoHp",
     "chatPanelHost": "chatPanelHost_ajKoHp",
     "chatPanelHostFloating": "chatPanelHostFloating_ajKoHp",
+    "chatPanelHostBelowControlBar": "chatPanelHostBelowControlBar_ajKoHp",
     "chatPanelHostHidden": "chatPanelHostHidden_ajKoHp"
   },
   "542325": {
@@ -15616,7 +15618,9 @@
   "610771": {
     "container": "container_7n2iBD",
     "sm": "sm_7n2iBD",
-    "lg": "lg_7n2iBD"
+    "lg": "lg_7n2iBD",
+    "reveal": "reveal_7n2iBD",
+    "loading": "loading_7n2iBD"
   },
   "610951": {
     "container": "container_mGpUsH",
@@ -16125,9 +16129,7 @@
     "projectIconButton": "projectIconButton_krOYhC",
     "title": "title_krOYhC",
     "titleText": "titleText_krOYhC",
-    "draftTag": "draftTag_krOYhC",
-    "shareTarget": "shareTarget_krOYhC",
-    "shareTargetDivider": "shareTargetDivider_krOYhC"
+    "draftTag": "draftTag_krOYhC"
   },
   "631466": {
     "wrapper": "wrapper_iJBQYY",
@@ -18049,9 +18051,7 @@
   },
   "705609": {
     "bar": "bar_KUyZhJ",
-    "actions": "actions_KUyZhJ",
-    "deviceToggle": "deviceToggle_KUyZhJ",
-    "deviceToggleDisabled": "deviceToggleDisabled_KUyZhJ"
+    "actions": "actions_KUyZhJ"
   },
   "705843": {
     "guildIconImage": "guildIconImage_sX5_6T",
@@ -22497,8 +22497,8 @@
   },
   "881245": {
     "character": "character_nk2LIv",
-    "loaded": "loaded_nk2LIv",
-    "layer": "layer_nk2LIv"
+    "layer": "layer_nk2LIv",
+    "loaded": "loaded_nk2LIv"
   },
   "881518": {
     "content": "content_2dzrtJ",
