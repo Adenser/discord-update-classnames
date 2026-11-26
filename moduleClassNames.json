@@ -24173,7 +24173,9 @@
     "renewalMutationNotice": "renewalMutationNotice_RTvmVT",
     "dupSubscriptionRow": "dupSubscriptionRow_RTvmVT",
     "sectionDescription": "sectionDescription_RTvmVT",
-    "sectionTitle": "sectionTitle_RTvmVT"
+    "sectionTitle": "sectionTitle_RTvmVT",
+    "pendingChangeText": "pendingChangeText_RTvmVT",
+    "pendingChangeAction": "pendingChangeAction_RTvmVT"
   },
   "943009": {
     "syncing": "syncing_ku2ve4"
